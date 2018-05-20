@@ -15,4 +15,5 @@ structure:
 ### The Internet Domain Name System
 ```
 nslookup -type=ns beniper.com a.root-servers.net
+nslookup -type=a
 ```
